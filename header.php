@@ -24,8 +24,8 @@
 
    <!-- script
    ================================================== -->
-	<script src="js/modernizr.js"></script>
-	<script src="js/pace.min.js"></script>
+	<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/modernizr.js"></script>
+	<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/pace.min.js"></script>
 
    <!-- favicons
 	================================================== -->

@@ -95,7 +95,6 @@
    ================================================== --> 
    <script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery-2.1.3.min.js"></script>
    <script src="<?php echo get_stylesheet_directory_uri(); ?>/js/plugins.js"></script>
-   <script src="<?php echo get_stylesheet_directory_uri(); ?>/js/jquery.appear.js"></script>
    <script src="<?php echo get_stylesheet_directory_uri(); ?>/js/main.js"></script>
 
 </body>

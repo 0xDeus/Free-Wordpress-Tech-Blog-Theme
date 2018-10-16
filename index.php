@@ -104,7 +104,7 @@
 				
 				<div class="entry-thumb">
 					<a href="single-standard.html" class="thumb-link">
-						<img src="images/thumbs/diagonal-building.jpg" alt="<?php the_title(); ?>">             
+						<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/thumbs/diagonal-building.jpg" alt="<?php the_title(); ?>">             
 					</a>
 				</div>
 				
